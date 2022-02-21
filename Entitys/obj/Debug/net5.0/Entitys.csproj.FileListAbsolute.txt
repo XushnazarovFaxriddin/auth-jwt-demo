@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Chiling\Entitys\bin\Debug\net5.0\Entitys.deps.json
+C:\Users\user\source\repos\Chiling\Entitys\bin\Debug\net5.0\Entitys.dll
+C:\Users\user\source\repos\Chiling\Entitys\bin\Debug\net5.0\ref\Entitys.dll
+C:\Users\user\source\repos\Chiling\Entitys\bin\Debug\net5.0\Entitys.pdb
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.AssemblyInfo.cs
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.dll
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\ref\Entitys.dll
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.pdb
+C:\Users\user\source\repos\Chiling\Entitys\obj\Debug\net5.0\Entitys.csproj.AssemblyReference.cache
